@@ -1,0 +1,174 @@
+{
+  "NoteEntries": [
+	//Octave 3
+    {
+      "Command": "{BACKSPACE}",
+      "Note": "c",
+      "Octave": 3
+    },
+	{
+      "Command": "!",
+      "Note": "cis",
+      "Octave": 3
+    },
+    {
+      "Command": "{RETURN}",
+      "Note": "d",
+      "Octave": 3
+    },
+	{
+      "Command": ",",
+      "Note": "dis",
+      "Octave": 3
+    },
+    {
+      "Command": "{SPACE}",
+      "Note": "e",
+      "Octave": 3
+    },
+    {
+      "Command": ".",
+      "Note": "f",
+      "Octave": 3
+    },
+	{
+      "Command": "?",
+      "Note": "fis",
+      "Octave": 3
+    },
+	{
+      "Command": "w",
+      "Note": "g",
+      "Octave": 3
+    },
+	{
+      "Command": "v",
+      "Note": "gis",
+      "Octave": 3
+    },
+	{
+      "Command": "n",
+      "Note": "a",
+      "Octave": 3
+    },
+	{
+      "Command": "j",
+      "Note": "ais",
+      "Octave": 3
+    },
+	{
+      "Command": "i",
+      "Note": "b",
+      "Octave": 3
+    },
+	
+	//Octave 4
+	{
+      "Command": "c",
+      "Note": "c",
+      "Octave": 4
+    },
+	{
+      "Command": "s",
+      "Note": "cis",
+      "Octave": 4
+    },
+    {
+      "Command": "d",
+      "Note": "d",
+      "Octave": 4
+    },
+	{
+      "Command": "t",
+      "Note": "dis",
+      "Octave": 4
+    },
+    {
+      "Command": "e",
+      "Note": "e",
+      "Octave": 4
+    },
+    {
+      "Command": "f",
+      "Note": "f",
+      "Octave": 4
+    },
+	{
+      "Command": "u",
+      "Note": "fis",
+      "Octave": 4
+    },
+	{
+      "Command": "g",
+      "Note": "g",
+      "Octave": 4
+    },
+	{
+      "Command": "r",
+      "Note": "gis",
+      "Octave": 4
+    },
+	{
+      "Command": "a",
+      "Note": "a",
+      "Octave": 4
+    },
+	{
+      "Command": "b",
+      "Note": "ais",
+      "Octave": 4
+    },
+	{
+      "Command": "h",
+      "Note": "b",
+      "Octave": 4
+    },
+	
+	//Octave 5
+	{
+      "Command": "k",
+      "Note": "c",
+      "Octave": 5
+    },
+	{
+      "Command": "p",
+      "Note": "cis",
+      "Octave": 5
+    },
+    {
+      "Command": "m",
+      "Note": "d",
+      "Octave": 5
+    },
+	{
+      "Command": "o",
+      "Note": "dis",
+      "Octave": 5
+    },
+    {
+      "Command": "l",
+      "Note": "e",
+      "Octave": 5
+    },
+    {
+      "Command": "z",
+      "Note": "f",
+      "Octave": 5
+    },
+	{
+      "Command": "x",
+      "Note": "fis",
+      "Octave": 5
+    },
+	{
+      "Command": "q",
+      "Note": "g",
+      "Octave": 5
+    },
+	{
+      "Command": "y",
+      "Note": "gis",
+      "Octave": 5
+    }	
+  ]
+}
