@@ -1,5 +1,5 @@
 # PianoKeyboard
-PianoKeyboard is a simple program that allows to translate MIDI signals from keyboards to text entry. 
+PianoKeyboard is a simple program that allows to convert MIDI signals from keyboards to text entry. 
 Any MIDI keyboard can be used with this program as a computer keyboard alternative. 
 
 PianoKeyboard has been inspired by PianoText by Anna Feit ( http://annafeit.de/pianotext/ ). PianoText has a much greater feature set, 
